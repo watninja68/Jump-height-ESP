@@ -1,0 +1,1252 @@
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0030,len:1344
+load:0x40078000,len:13964
+load:0x40080400,len:3600
+entry 0x400805f0
+Code start
+The device with name "ESP32-BT-Slave-1" is started.
+Now you can pair it with Bluetooth!
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+--
+--
+--
+--
+--
+--
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0030,len:1344
+load:0x40078000,len:13964
+load:0x40080400,len:3600
+entry 0x400805f0
+Code start
+The device with name "ESP32-BT-Slave-1" is started.
+Now you can pair it with Bluetooth!
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+13Jump Finished , Time taken = 
+16.00Jump Hight = 6.72
+Horizontal Distance:-
+bluettoth data sent
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+--
+In ground
+--
+In ground
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0030,len:1344
+load:0x40078000,len:13964
+load:0x40080400,len:3600
+entry 0x400805f0
+Code start
+The device with name "ESP32-BT-Slave-1" is started.
+Now you can pair it with Bluetooth!
+In ground
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0030,len:1344
+load:0x40078000,len:13964
+load:0x40080400,len:3600
+entry 0x400805f0
+Code start
+The device with name "ESP32-BT-Slave-1" is started.
+Now you can pair it with Bluetooth!
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+9Jump Finished , Time taken = 
+11.00Jump Hight = 3.19
+Horizontal Distance:-
+bluettoth data sent
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+--
+--
+--
+--
+--
+--
+--
+6Jump Finished , Time taken = 
+7.00Jump Hight = 1.29
+Horizontal Distance:-
+bluettoth data sent
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+--
+1Jump Finished , Time taken = 
+1.00Jump Hight = 0.03
+Horizontal Distance:-
+bluettoth data sent
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--

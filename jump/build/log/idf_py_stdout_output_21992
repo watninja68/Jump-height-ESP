@@ -1,0 +1,2116 @@
+ts Julets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0030,len:1344
+load:0x40078000,len:13964
+load:0x40080400,len:3600
+entry 0x400805f0
+Code start
+The device with name "ESP32-BT-Slave-1" is started.
+Now you can pair it with Bluetooth!
+In ground
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+
+Brownout detector was triggered
+
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0030,len:1344
+load:0x40078000,len:13964
+load:0x40080400,len:3600
+entry 0x400805f0
+Code start
+
+Brownout detector was triggered
+
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0030,len:1344
+load:0x40078000,len:13964
+load:0x40080400,len:3600
+entry 0x400805f0
+Code start
+
+Brownout detector was triggered
+
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0030,len:1344
+load:0x40078000,len:13964
+load:0x40080400,len:3600
+entry 0x400805f0
+Code start
+
+Brownout detector was triggered
+
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0030,len:1344
+load:0x40078000,len:13964
+load:0x40080400,len:3600
+entry 0x400805f0
+Code start
+The device with name "ESP32-BT-Slave-1" is started.
+Now you can pair it with Bluetooth!
+In ground
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0030,len:1344
+load:0x40078000,len:13964
+load:0x40080400,len:3600
+entry 0x400805f0
+Code start
+The device with name "ESP32-BT-Slave-1" is started.
+Now you can pair it with Bluetooth!
+In ground
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0030,len:1344
+load:0x40078000,len:13964
+load:0x40080400,len:3600
+entry 0x400805f0
+Code start
+The device with name "ESP32-BT-Slave-1" is started.
+Now you can pair it with Bluetooth!
+In ground
+--
+--
+--
+--
+--
+--
+--
+
+Brownout detector was triggered
+
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0030,len:1344
+load:0x400eCode start
+The device with name "ESP32-BT-Slave-1" is started.
+Now you can pair it with Bluetooth!
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+--
+In ground
+--
+In ground
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+140Jump Finished , Time taken = 
+175.00Jump Hight = 787.85
+Horizontal Distance:-
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4009560e  PS      : 0x00060033  A0      : 0x80093e3e  A1      : 0x3ffbed3c  
+A2      : 0x00000000  A3      : 0xa46017d8  A4      : 0x3ffc5404  A5      : 0x3ffc5358  
+A6      : 0x00000006  A7      : 0x3ffebc94  A8      : 0x80095567  A9      : 0x3ffbecfc  
+A10     : 0x00000001  A11     : 0x3ffc5318  A12     : 0x3ffc5318  A13     : 0x00060023  
+A14     : 0x00060021  A15     : 0x00000001  SAR     : 0x00000018  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0xa46017d8  LBEG    : 0x400918ed  LEND    : 0x400918fd  LCOUNT  : 0xfffffffe  
+
+
+Backtrace: 0x4009560b:0x3ffbed3c |<-CORRUPTED
+
+
+
+
+ELF file SHA256: 7e613e6ac139c94b
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0030,len:1344
+load:0x40078000,len:13964
+load:0x40080400,len:3600
+entry 0x400805f0
+Code start
+The device with name "ESP32-BT-Slave-1" is started.
+Now you can pair it with Bluetooth!
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+--
+--
+2Jump Finished , Time taken = 
+2.00Jump Hight = 0.10
+Horizontal Distance:-
+bluettoth data sent
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+79Jump Finished , Time taken = 
+98.00Jump Hight = 247.36
+Horizontal Distance:-
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4009560e  PS      : 0x00060033  A0      : 0x80093e3e  A1      : 0x3ffbed3c  
+A2      : 0x00000000  A3      : 0xdbe86800  A4      : 0x3ffc5404  A5      : 0x3ffc5358  
+A6      : 0x00000006  A7      : 0x3ffebc94  A8      : 0x80095567  A9      : 0x3ffbecfc  
+A10     : 0x00000001  A11     : 0x3ffc5318  A12     : 0x3ffc5318  A13     : 0x00060023  
+A14     : 0x00060021  A15     : 0x00000001  SAR     : 0x00000018  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0xdbe86800  LBEG    : 0x400918ed  LEND    : 0x400918fd  LCOUNT  : 0xfffffffe  
+
+
+Backtrace: 0x4009560b:0x3ffbed3c |<-CORRUPTED
+
+
+
+
+ELF file SHA256: 7e613e6ac139c94b
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0030,len:1344
+load:0x40078000,len:13964
+load:0x40080400,len:3600
+entry 0x400805f0
+Code start
+The device with name "ESP32-BT-Slave-1" is started.
+Now you can pair it with Bluetooth!
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+10Jump Finished , Time taken = 
+12.00Jump Hight = 3.70
+Horizontal Distance:-
+bluettoth data sent
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+--
+1Jump Finished , Time taken = 
+1.00Jump Hight = 0.03
+Horizontal Distance:-
+bluettoth data sent
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+10Jump Finished , Time taken = 
+12.00Jump Hight = 3.70
+Horizontal Distance:-
+bluettoth data sent
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+Code start
+The device with name "ESP32-BT-Slave-1" is started.
+Now you can pair it with Bluetooth!
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0030,len:1344
+load:0x40078000,len:13964
+load:0x40080400,len:3600
+entry 0x400805f0
+Code start
+The device with name "ESP32-BT-Slave-1" is started.
+Now you can pair it with Bluetooth!
+In ground
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0030,len:1344
+load:0x40078000,len:13964
+load:0x40080400,len:3600
+entry 0x400805f0
+Code start
+The device with name "ESP32-BT-Slave-1" is started.
+Now you can pair it with Bluetooth!
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+9Jump Finished , Time taken = 
+11.00Jump Hight = 3.09
+Horizontal Distance:-
+bluettoth data sent
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
+In ground
+--
